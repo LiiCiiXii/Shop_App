@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_project2/pt21.dart';
+import 'package:flutter_project2/pt22.dart';
 
 void main(List<String> args) {
   runApp(const MyApp());
